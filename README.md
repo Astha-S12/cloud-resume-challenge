@@ -1,9 +1,3 @@
-Good catch — and important to fix this honestly. Don’t list services you didn’t actually use; recruiters notice that quickly.
-
-Here’s your **corrected final README (S3-only version)** — clean, accurate, and still strong.
-
----
-
 # ☁️ Cloud Resume Challenge (Serverless AWS Project)
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
@@ -188,12 +182,3 @@ Built a serverless resume web application using AWS S3, API Gateway, Lambda, and
 **Aastha Shetty**
 
 ---
-
-If you want next step, I can upgrade this further into:
-
-* 🔥 “perfect LinkedIn post for this project”
-* 🔥 “resume bullet that gets interviews”
-* 🔥 “how to explain this in interviews (very important)”
-* 🔥 “next AWS project after this (Docker + EC2 level)”
-
-Just tell me 👍
