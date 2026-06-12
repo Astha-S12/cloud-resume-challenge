@@ -179,6 +179,7 @@ Built a serverless resume web application using AWS S3, API Gateway, Lambda, and
 
 # 👩‍💻 Author
 
-**Aastha Shetty**
+**Astha Shetty**
+GitHub: [Astha-S12](https://github.com/Astha-S12)
 
 ---
