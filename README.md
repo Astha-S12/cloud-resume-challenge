@@ -112,6 +112,12 @@ fetch("YOUR_API_URL")
 }
 ```
 
+## 🎥 Project Demo
+
+A short walkthrough of the working website and visitor counter system.
+
+![Demo](live-demo-website.mp4)
+
 ---
 
 # 📸 Screenshots
