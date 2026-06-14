@@ -26,6 +26,7 @@ AWS Lambda
      ↓
 DynamoDB
 ```
+![Architecture](cloud-resume-challenge-architecture.png)
 
 ---
 
